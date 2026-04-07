@@ -1,4 +1,4 @@
-# AIS-CCTV Data Experiment Demo
+# AIS-CCTV Data Demo
 
 This repository hosts the demo for AIS and CCTV data experiments in my graduation thesis.
 
